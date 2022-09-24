@@ -1,0 +1,37 @@
+aws:-amazon web services 
+introduction:-
+
+account creation:-2 ways 
+1) through web console(aws managment console)
+2) through clt mode
+
+3 types of accounts will be
+ 1)basic ---free account(no time limit ,resolution of any issuse)
+ 2)developer--paid account(resolution of any account will be done 4-8hrs)
+ 3)business---paid account(resolution of any issuse will be done in 1-2 hrs)
+   
+   
+   infrastructures
+   
+   3types =iaas(infrastructures of a services)
+           paas(platform of a services)
+		   saas(software of a services)
+	
+cloud-is a platform (2 types)(where the people will do the work)
+ 1)physical ---too costly,limited storage
+ 2)cloud ---too cheap,unlimited storage 
+ 
+ types of cloud ---private---only some people can use
+                   public----any one access the site
+				   hybrid----some people can use or no one canot use the site
+  
+vendors of cloud ---citrix-1980
+                    aws-1996
+                    azure-2010
+                    gcp-2015
+                    oracle,IBM
+                    alibaba
+ 
+
+ 
+ 
